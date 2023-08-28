@@ -1,5 +1,6 @@
 ---
 items:
+ - Avaiga/taipy
  - tdsmith/github-snooze-button
  - octobox/octobox
  - semantic-release/semantic-release
